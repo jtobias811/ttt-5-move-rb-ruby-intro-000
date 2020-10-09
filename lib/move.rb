@@ -12,5 +12,5 @@ def input_to_index(user_input)
 end
 
 def move(board, index, player)
-  puts "#{move(board, index)}"
+  puts "#{move(board, index, player)}"
 end
